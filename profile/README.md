@@ -1,8 +1,6 @@
-<a href="https://www.databricks.com"><img src='https://github.com/databricks-industry-solutions/.github/raw/main/profile/solacc_logo_wide.png'></img></a>
-
 # Databricks Field Solutions
 
-Welcome to Databricks Field Solutions - a curated collection of real-world implementations, demonstrations, and technical content created by Databricks field personnel. This repository serves as a central hub for sharing practical expertise and best practices developed through hands-on experience with customers across various industries.
+Welcome to Databricks Field Engineering Solutions repository - a curated collection of real-world implementations, demonstrations, and technical content created by Databricks field personnel. This repository serves as a central hub for sharing practical expertise and best practices developed through hands-on experience with customers across various industries.
 
 ## What You'll Find Here
 
