@@ -1,28 +1,32 @@
 # Databricks Field Solutions
 
-Welcome to Databricks Field Engineering Solutions repository - a curated collection of real-world implementations, demonstrations, and technical content created by Databricks field personnel. This repository serves as a central hub for sharing practical expertise and best practices developed through hands-on experience with customers across various industries.
+Welcome to the **Databricks Field Solutions** repository — a curated collection of real-world implementations, demonstrations, and technical content created by Databricks field engineers.  
+This repository serves as a central hub for sharing practical expertise and best practices derived from hands-on customer engagements across various industries.
 
-## What You'll Find Here
+## What You'll Find
 
-Our repository includes a diverse range of content:
+This repository includes a diverse range of content:  
 
-- Technical Demonstrations
-- Implementation Examples
-- Product Deep Dives
-- Event Presentations and Materials
-- Technical Blog Posts
-- Industry-Specific Use Cases
-- Best Practice Guidelines
-
+- Technical demonstrations and sample projects  
+- Implementation patterns and best practices  
+- In-depth product explorations  
+- Event presentations and reference materials  
+- Technical blog posts and how-to guides  
+- Industry-specific use cases  
 
 ## Contributing
 
-This repository represents the collective knowledge and experience of Databricks' field teams. If you're a Databricks field team member and would like to contribute, please reach out to the repository maintainers.
+This repository represents the collective knowledge and experience of Databricks field teams.  
+If you are a member of the Databricks field organization and would like to contribute, please contact the repository maintainers.
 
-## Project Support 
+## Support Disclaimer
 
-Please note that the content in this repository is provided for reference and educational purposes only, and is not formally supported by Databricks with Service Level Agreements (SLAs). All materials are provided AS-IS and we do not make any guarantees of any kind. They are not intended for production use without proper review and testing.
+The content provided here is for **reference and educational purposes only**.  
+It is not officially supported by Databricks under any Service Level Agreements (SLAs).  
+All materials are provided **AS IS**, without any guarantees or warranties, and are not intended for production use without proper review and testing.
 
-The source in this project is provided subject to the Databricks [License](./LICENSE). All included or referenced third party libraries are subject to their respective licenses.
+The source code in this project is provided under the Databricks [License](./LICENSE).  
+All third-party libraries included or referenced are subject to their respective licenses.
 
-Any issues discovered through the use of these materials should be filed as GitHub Issues on the Repo. They will be reviewed as time permits, but there are no formal SLAs for support.
+If you encounter issues while using this content, please open a GitHub Issue in this repository.  
+Issues will be reviewed as time permits, but there are **no formal SLAs** for support.
